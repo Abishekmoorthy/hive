@@ -1,0 +1,13 @@
+{
+  "name": "hive-main",
+  "version": "1.0.0",
+  "description": "Hive is a powerful YouTube content analysis toolbox that empowers creators  to deeply understand their audience and optimize videos for maximum impact.  We provide in-depth analytics, insights, demographics, collaboration support, video scheduling and lots more. Help your channel grow with Hive :zap:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
